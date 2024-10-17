@@ -1,0 +1,17 @@
+{
+    "initial_budget": 1000.0,
+    "expenses": [
+        {
+            "description": "Travel",
+            "amount": 250.0
+        },
+        {
+            "description": "groceries",
+            "amount": 56.0
+        },
+        {
+            "description": "Clothes",
+            "amount": 300.0
+        }
+    ]
+}
